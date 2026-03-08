@@ -116,10 +116,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 The backend loads it automatically using `python-dotenv`:
 
-```python
-from dotenv import load_dotenv
-load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+```
 ```
 
 #### 2d. Run the Flask server
