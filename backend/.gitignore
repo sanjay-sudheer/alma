@@ -26,6 +26,8 @@ env/
 *.sqlite
 *.sqlite3
 college_rag.db
+college_rag.db-shm
+college_rag.db-wal
 
 # ── Logs ──────────────────────────────────────
 *.log
