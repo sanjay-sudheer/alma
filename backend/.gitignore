@@ -1,0 +1,36 @@
+# ── Python ────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ───────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Environment variables ──────────────────────
+.env
+.env.local
+.env.production
+
+# ── Database & RAG store ───────────────────────
+*.db
+*.sqlite
+*.sqlite3
+college_rag.db
+
+# ── Logs ──────────────────────────────────────
+*.log
+logs/
+
+# ── OS ────────────────────────────────────────
+.DS_Store
+Thumbs.db
