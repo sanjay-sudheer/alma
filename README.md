@@ -114,11 +114,6 @@ GROQ_API_KEY=your_groq_api_key_here
 
 > 🔑 Get a free Groq API key at [console.groq.com](https://console.groq.com) — no credit card needed.
 
-The backend loads it automatically using `python-dotenv`:
-
-```
-```
-
 #### 2d. Run the Flask server
 
 ```bash
